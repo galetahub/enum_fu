@@ -1,2 +1,2 @@
-require 'enum_fu'
-ActiveRecord::Base.send :include, EnumFu
+# encoding: utf-8
+require File.join(File.dirname(__FILE__), "lib", "freeberry")
